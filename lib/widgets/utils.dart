@@ -11,14 +11,14 @@ const wColor = Colors.white;
 TextStyle textStyle (double fontSize , Color color) {
   return TextStyle(
     fontSize: fontSize,
-    fontFamily: 'Carpaccio',
+    fontFamily: 'Circular',
     color: color,
   );
 }
 
 
 List<String> doctorsNames = [
-  'Dr. Richard D. Pearson',
+  'Dr. Osama S Ameerah',
   'Dr. Robert J. Boyle',
   'Dr. Mark D. Miller',
   'Dr. William D. Steers',
